@@ -1,0 +1,85 @@
+
+/****************************** about section start****************************/
+.about-text{
+    margin-top: 170px;
+}
+.about{
+    margin-top: 50px;
+}
+
+/****************************** about section end****************************/
+
+
+
+
+
+
+
+
+
+
+/****************************** product section start****************************/
+
+.product{
+    margin-top: 200px;
+}
+
+.ladis-jacket{
+    margin-top: 100px;
+}
+
+
+/****************************** product section end****************************/
+
+
+
+
+
+
+
+
+
+
+/****************************** theme  start****************************/
+.theme{
+    margin-top: 150px;
+}
+/****************************** theme  end****************************/
+
+/****************************** contact  start****************************/
+.contact_me{
+    margin:100px 0px;
+    background: #ffb846;
+}
+
+.contact_me input{
+    margin-top: 15px;
+}
+
+
+.contact-title p{
+	margin-bottom:100px ;
+}
+
+/****************************** contact  end****************************/
+/************************footer  start *****************************/
+.footer-section{
+	width:100%;
+	height:auto;
+	padding:70px 0 20px 0;
+    background:#000000;
+  
+	
+}
+
+.footer-section p{
+	color:#fff;
+}
+
+.footer-section li a{
+	text-decoration:none;
+	color:#fff;
+}
+
+
+/************************footer  end *****************************/
